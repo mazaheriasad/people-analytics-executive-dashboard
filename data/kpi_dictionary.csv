@@ -1,0 +1,15 @@
+﻿KPI,Definition / Logic,Primary Source
+Current Headcount,Distinct active employees in selected month-end snapshot.,Monthly_Snapshot
+FTE,Sum of FTE in selected month-end snapshot.,Monthly_Snapshot
+Hires,Employees whose HireDate falls within selected period.,Employee_Master
+Exits,Employees whose TerminationDate falls within selected period.,Employee_Master
+Voluntary Exits,Exits where TerminationReason starts with 'Voluntary'.,Employee_Master
+Turnover Rate,Exits / Average Headcount for selected period.,Both
+Voluntary Turnover Rate,Voluntary Exits / Average Headcount.,Both
+Headcount Growth,(Current HC - Prior HC) / Prior HC.,Monthly_Snapshot
+Average Tenure,Average years from HireDate to selected date for active employees.,Employee_Master
+Average Engagement,Average EngagementScore.,Monthly_Snapshot
+Absence Days per FTE,SUM(AbsenceDays) / SUM(FTE).,Monthly_Snapshot
+Training Hours per FTE,SUM(TrainingHours) / SUM(FTE).,Monthly_Snapshot
+Promotion Rate,SUM(PromotionFlag) / Average Headcount.,Monthly_Snapshot
+High Performer Share,Employees with PerformanceRating 4 or 5 / rated employees.,Monthly_Snapshot
