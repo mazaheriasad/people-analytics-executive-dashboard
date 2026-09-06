@@ -28,7 +28,7 @@ A portfolio project demonstrating end-to-end People Analytics in Power BI: data 
 
 ### 1. Executive Overview
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/executive_overview.jpg)
 
 Key components:
 - Headcount, FTE, MoM headcount growth, period hires, period exits, engagement, and 12M turnover
@@ -39,7 +39,7 @@ Key components:
 
 ### 2. Turnover & Workforce Movement
 
-![Turnover & Workforce Movement](images/turnover_movement.png)
+![Turnover & Workforce Movement](images/turnover_movement.jpg)
 
 Key components:
 - Exits, voluntary exits, involuntary exits, voluntary turnover, promotions, promotion rate, net workforce movement
@@ -50,7 +50,7 @@ Key components:
 
 ### 3. Workforce Profile & Talent Insights
 
-![Workforce Profile & Talent Insights](images/talent_insights.png)
+![Workforce Profile & Talent Insights](images/talent_insights.jpg)
 
 Key components:
 - Headcount, average tenure, engagement, high performer share, average monthly training hours/FTE, promotion rate
@@ -165,9 +165,9 @@ people-analytics-executive-dashboard/
 │   ├── engagement_by_department.csv
 │   └── exits_by_termination_reason.csv
 ├── images/
-│   ├── executive_overview.png
-│   ├── turnover_movement.png
-│   └── talent_insights.png
+│   ├── executive_overview.jpg
+│   ├── turnover_movement.jpg
+│   └── talent_insights.jpg
 └── docs/
     └── people_analytics_case_study.pdf
 ```
