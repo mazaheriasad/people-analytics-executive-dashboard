@@ -170,13 +170,8 @@ people-analytics-executive-dashboard/
 │   └── talent_insights.jpg
 └── docs/
     └── people_analytics_case_study.pdf
-```
-
-Add your Power BI file to the repository if you want recruiters to inspect the model directly:
-
-```text
-powerbi/
-└── people_analytics_executive_dashboard_v1.0.pbix
+└── powerbi/
+    └── people_analytics_executive_dashboard_v1.0.pbix
 ```
 
 ## Data ethics
