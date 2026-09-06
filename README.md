@@ -157,7 +157,6 @@ See [`data/kpi_dictionary.csv`](data/kpi_dictionary.csv) for metric definitions.
 ```text
 people-analytics-executive-dashboard/
 │
-├── README.md
 ├── data/
 │   ├── employee_master.csv
 │   ├── monthly_snapshot.csv
@@ -169,9 +168,10 @@ people-analytics-executive-dashboard/
 │   ├── turnover_movement.jpg
 │   └── talent_insights.jpg
 └── docs/
-    └── people_analytics_case_study.pdf
+│   └── people_analytics_case_study.pdf
 └── powerbi/
-    └── people_analytics_executive_dashboard_v1.0.pbix
+│   └── people_analytics_executive_dashboard_v1.0.pbix
+├── README.md
 ```
 
 ## Data ethics
