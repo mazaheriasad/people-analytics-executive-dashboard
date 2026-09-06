@@ -171,17 +171,22 @@ people-analytics-executive-dashboard/
 │   └── people_analytics_case_study.pdf
 └── powerbi/
 │   └── people_analytics_executive_dashboard_v1.0.pbix
-├── README.md
+└── README.md
 ```
 
 ## Data ethics
 
 This project intentionally uses synthetic data. It is designed to demonstrate People Analytics methods without exposing personally identifiable, confidential, or real employee information.
 
-## Portfolio positioning
+## Tools & Skills
 
-**Suggested project title:**  
-`People Analytics Executive Dashboard | Power BI`
+Power BI · DAX · Power Query · Data Modeling · People Analytics ·
+Workforce Analytics · HR Analytics · Talent Analytics ·
+Data Visualization · Workforce Planning
 
-**Skills:**  
-People Analytics · Workforce Analytics · Power BI · DAX · Power Query · Data Modeling · HR Analytics · Talent Analytics · Workforce Planning · Data Visualization
+## Author
+
+**Mohsen Mazaheriasad**  
+People Analytics | Talent Intelligence | AI in HR
+
+[LinkedIn](https://www.linkedin.com/in/m-mazaheriasad) · [GitHub](https://github.com/mazaheriasad)
